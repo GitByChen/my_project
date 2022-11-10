@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "sys.h": "c",
+        "stdlib.h": "c",
+        "usart.h": "c",
+        "queue.h": "c",
+        "string": "c",
+        "wdg.h": "c",
+        "rtc.h": "c",
+        "task.h": "c",
+        "flash.h": "c",
+        "pwm.h": "c",
+        "stm32f10x_flash.h": "c",
+        "spi.h": "c",
+        "w25q64.h": "c"
+    }
+}
